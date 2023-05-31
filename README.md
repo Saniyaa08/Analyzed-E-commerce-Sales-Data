@@ -21,10 +21,15 @@ Customization Options: Customize the visuals, colors, and layouts to match your 
 Documentation: Step-by-step instructions and detailed documentation to guide you through the process of connecting your data, customizing visuals, and creating your own reports. 📝📚
 
 Getting Started 🚀
+
 Clone this repository to your local machine or download the Power BI files (.pbix).
+
 Connect to your ecommerce sales data source using Power BI's data connection options.
+
 Customize the visuals, colors, and layouts to match your branding and reporting requirements.
+
 Explore the pre-built dashboards and reports, or create your own using the provided data models and calculations.
+
 Gain valuable insights into your ecommerce sales data and make data-driven decisions to optimize your operations.
 
 
